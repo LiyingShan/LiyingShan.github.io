@@ -1,0 +1,15 @@
+body { background-color: #BCF9F2; }
+
+h1 {
+	color: #38ACC9 ;font-size: 100px; display: inline-block;
+}
+
+ul { color: #6D15B1;font-size: 30px;}
+
+#i {color: coral;font-size: 50px ;}
+
+p {color: #AA2335; font-size:30px; display: inline-block;}
+
+.smiley{ display:inline-block;}
+
+.spirit {display:inline-block;}
